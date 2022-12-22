@@ -1,18 +1,5 @@
-# AIML_class
+# Machine Learning for AI - Practice classes
 
 ## Introduction
 
-This repository is for the class AI for Machine Learning.
-
-
-## Some personal information
-
-- Name: Yeray
-- Nationality: Catalan/Spanish
-- From Barcelona
-- My hobbies are play videogames and sometimes, but only sometimes, code something.
-- Languages: 
-   - Catalan : Native
-   - Spanish : Native
-   - English : B2/C1
-   - Korean : Beginner, trying to learn a bit :)
+This repository is for the class AI for Machine Learning from Chung-Ang University, 2022-2nd Semester.
